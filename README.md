@@ -1,29 +1,30 @@
 @@ -1,8 +1,49 @@
-# My Git Assignment
+# My Programming Portfolio
 # Programming Drills
 
 ## Main Branch
 ## Overview
 
-This branch contains my PowerShell profile script for the Git assignment.
-This repository contains my programming drills, exercises, and laboratory activities completed for my Information Technology coursework.
+This branch contains my repository documentation and Git configuration files.
+This repository contains my programming exercises, laboratory activities, and coding projects completed during my Bachelor of Science in Information Technology studies.
 
 ### Files
-- self.ps1
-The repository is organized using separate Git branches to keep each programming language and activity organized.
+- README.md
+
+The repository is organized using separate Git branches to keep each programming language and project well-structured.
 
 ---
 
 ## Repository Structure
 
 ### Main Branch
-Contains my PowerShell profile script and repository documentation.
+Contains repository documentation and general project information.
 
 ### JavaScript Branch
-Contains JavaScript programming drills and algorithm exercises.
+Contains JavaScript programming exercises, Node.js applications, and coding challenges.
 
 ### Python Branch
-Contains Python programming drills and activities.
+Contains Python programming activities, scripts, and laboratory exercises.
 
 ---
 
@@ -41,15 +42,15 @@ Contains Python programming drills and activities.
 
 The purpose of this repository is to:
 
-- Practice programming concepts
-- Improve problem-solving skills
-- Organize coursework using Git branches
-- Demonstrate version control using GitHub
+- Develop programming and problem-solving skills
+- Practice writing clean and organized code
+- Learn Git branching and version control
+- Store and track programming activities and projects
 
 ---
 
 ## Author
 
-Reinier Kyle Nalupano
+Leomel NasalitA
 
 Bachelor of Science in Information Technology
